@@ -17,7 +17,7 @@ appveyor = { repository = "async-std/async-tls" }
 
 [dependencies]
 futures = "0.3"
-rustls = "0.16"
+rustls = "0.17"
 webpki = "0.21"
 webpki-roots = "0.17"
 
